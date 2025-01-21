@@ -10,4 +10,6 @@ public class UPIPaymentOperation {
 	public String addrewards(String txId) {
 		return txId+" has got "+new Random().nextInt(3000)+" Reward point have come";
 	}
+	
+
 }
