@@ -7,5 +7,5 @@ public class NetBankingOperations {
 	}
 	public String cashbackOffer(String txId,double amt) {
 		return amt*0.5+" amount goes as cashback amount";
-	}
+	} 
 }
